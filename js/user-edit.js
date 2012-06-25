@@ -18,5 +18,4 @@ $(function() {
 	$("#subject2").find(".btn-info").on("click", pp_con.add_name);
 	
 	//subject03
-	//
 });
